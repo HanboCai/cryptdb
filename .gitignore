@@ -1,0 +1,28 @@
+<<<<<<< HEAD
+/obj
+tags
+*.swp
+mysql-src/
+*.cdepn
+/bins/proxy-bin/
+/shadow
+negatives_status.txt
+README.rst
+supps
+mergedep.pl
+.gitignore~
+=======
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+>>>>>>> eae5e6d5312ffc5ff611fcd2e1e0d232dbc0571d
